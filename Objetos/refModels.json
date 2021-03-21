@@ -1,0 +1,86 @@
+
+
+[ 
+	"Funcionario":{
+		"nome":"",
+		"idade":"",
+		"cpf":"",		
+		"pis":"",	
+		"foto":"",
+		"email":"",
+		"cod":""
+	}	
+]
+
+[
+	"ctl":{
+		"cod":"",
+		"data_inicio":"",
+		"data_fim":"",
+		"cod_funcionario":""
+		},
+]
+
+[
+	"cargo":{
+		"cod":"",
+		"data_inicio":"",
+		"data_fim":"",
+		"descricao":"",
+		"cliente_atuacao":"",	
+		"cod_funcionario":""
+	}
+]
+
+[
+	"clinte":{
+		"cod":"",
+		"endereco":"",
+		"nome":"",
+		"responsavel":"",
+		"tel":"",
+		"email":""
+	}
+]
+
+[
+	"periodo_trabalho":{
+		"cod":"",
+		"cod_funcinario":"",		
+		"primeiro":"",
+		"primeiro_hist":[
+			{
+				"periodo":"",
+				"cod_user":"",
+				"data":""
+			}
+		],
+		"segundo":"",
+		"segundo_hist":[
+			{
+				"periodo":"",
+				"cod_user":"",
+				"data":""
+			}
+		],
+		"terceiro":"",
+		"terceiro_hist":[
+			{
+				"periodo":"",
+				"cod_user":"",
+				"data":""
+			}
+		],
+		"quarto":"",
+		"quarto_hist":[
+			{
+				"periodo":"",
+				"cod_user":"",
+				"data":""
+			}
+		],	
+		"observacao":"",
+		"cod_discordancia":"",
+		"discordancia":false,
+	}
+]

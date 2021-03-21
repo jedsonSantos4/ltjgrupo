@@ -1,0 +1,4 @@
+Insomnia.Core-2021.1.1
+mongodb-windows-x86_64-4.4.4-signed
+node-v14.16.0-x64
+VSCodeUserSetup-x64-1.54.1

@@ -1,0 +1,38 @@
+
+
+
+Controle ponto READ ME
+
+Eu como usuario preciso que o sistema me permita realizar as seguintes alteração
+
+Será disponibilizado um arquivo TXT, com as seguintes
+informações
+ID	Nome	Nome do Departamento	Tempo	Dispositivo ID	
+101		Not Set1	 2021-01-16     09:33:48	1
+
+- Logar e identificar usuario
+- Converte dados para o excel/CSV
+- Ajustar horarios 
+- Folga/Abono
+- Falta
+- Supensão 
+- CTRL banco de horas
+- CRTL historico de edições 
+
+- convere ID do usario(101) pelo dados do funcionario cadastrado
+- Exibir foto 
+
+
+Tela inical 
+
+Exibi todos os usuario cadastrados, ao clicar nele deve exibir um popup solicitando periodo de analise
+
+proxima tela 
+Exibe dados basicos do usuario e com foto, abaixo lista como periodo trabalhado, acada encerramento de ciclo deve exibir
+uma nova lista.
+Esse calculo deve ocorre baseado no perido de trabalho de cada funcioonario 
+
+
+apos edições possibilitar converte em execel o csv
+
+
